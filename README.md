@@ -2,7 +2,7 @@
 
 A complete Standard Operating Procedure coverying the entire document lifecycle - creation, review, approval, distribution, and archiving controlled documents
 
-## Secyions Covered
+## Sections Covered
 - Purpose and Scope
 - Respnsibilities (Document Controller, Author, Approver)
 - Document Creation
